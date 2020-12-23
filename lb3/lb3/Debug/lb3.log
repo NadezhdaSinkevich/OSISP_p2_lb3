@@ -1,0 +1,5 @@
+﻿  CustomCriticalSection.cpp
+C:\Users\ASUS\Desktop\all\osisp\lb3\lb3\CustomCriticalSection.h(16,2): warning C4091: typedef : пропускается слева от "CUSTOM_CIRTICAL_SECTION", когда ни одна переменная не объявлена
+  Source.cpp
+  Создание кода...
+  lb3.vcxproj -> C:\Users\ASUS\Desktop\all\osisp\lb3\Debug\lb3.exe
